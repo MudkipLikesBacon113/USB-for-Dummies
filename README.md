@@ -10,7 +10,7 @@ Models for 3d print made in Onshape (student license) and TinkerCad
  1 Upstream **USB-C** port \
  Downstream **USB-C** and **USB-A**; 2 each
 
-# Board Schematic and PCB \
+# Board Schematic and PCB
 <img width="1014" height="597" alt="image" src="https://github.com/user-attachments/assets/fecb4db9-e28f-417a-908a-020bd89a0fbe" />
 Front:
 <img width="1162" height="573" alt="image" src="https://github.com/user-attachments/assets/9c09008b-23d2-438c-9ebe-2ae66ede0070" />
