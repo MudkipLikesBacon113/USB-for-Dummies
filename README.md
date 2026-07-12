@@ -1,7 +1,7 @@
 # Terabyte 451: A creative USB Hub
 A USB hub that is hidden inside of a fake book. Flips open to reveal USBs and extra storage! Perfect for travel.\
  \
- I wanted to make this because my computer sucks and only has one USB-C port. I also really wanted to make a hardware related project, and here is my start.
+ I wanted to make this because my computer sucks and only has one USB-C port. I also really wanted to make a hardware related project, and here is my start. \
  <img width="528" height="752" alt="image" src="https://github.com/user-attachments/assets/81e2ba74-0d1d-44ae-94c8-ee2434fb6c98" />
 
 
