@@ -25,7 +25,8 @@ Models for 3d print made in Onshape (student license)
 # Build Instructions:
 1. Order the PCB from EasyEDA. Dont choose the fastest shipping or you will get an unexpected 200 dollar charge. Maybe it was obvious but I had no idea. \
 2. Next, download the 3d files and 3d print them. If you use Bambu Lab, you can use the Makerworld link. Make sure you print as a whole part!!\
-4. When you have both, get your two M2 screws. Put the board in the slot, and screw it in. Make sure the upstream USB-C is inside the slot.
+4. When you have both, get your two M2 screws. Put the board in the slot, and screw it in. Make sure the upstream USB-C is inside the slot. \
+5. You should probably color it with paint, or it might be a little ugly. \
  # Screenshots
 <details>
 <summary>View Screenshots</summary>
